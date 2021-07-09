@@ -35,5 +35,7 @@
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu",
-	"settings": {}
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
 }
