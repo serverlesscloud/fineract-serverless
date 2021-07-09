@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "../fineract-cn-docker-compose"
+		},
+		{
+			"path": "../fineract-cn-fims-web-app"
+		},
+		{
+			"path": "../fineract-cn-identity"
+		},
+		{
+			"path": "../fineract-cn-provisioner"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../fineract-cn-accounting"
+		},
+		{
+			"path": "../fineract-cn-customer"
+		},
+		{
+			"path": "../fineract-cn-deposit-account-management"
+		},
+		{
+			"path": "../fineract-cn-demo-server"
+		},
+		{
+			"path": "../fineract-cn-rhythm"
+		},
+		{
+			"path": "../fineract-cn-cheques"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}
